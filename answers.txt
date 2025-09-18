@@ -1,2 +1,5 @@
 Q1: Why might we consider using Git?
 Answer: Git is useful for version control and using something like GitHub can support collaboration when working with a team on a project. Using Git and Github also allows you to synchronize your work.
+
+Q2: What field could data science be applied to? Give an Example.
+Answer: Data Science can be used in almost every field including meteorology, finance, manufacturing, AI/ML, medicine, defense etc.

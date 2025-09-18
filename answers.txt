@@ -1,0 +1,2 @@
+Q1: Why might we consider using Git?
+Answer: Git is useful for version control and using something like GitHub can support collaboration when working with a team on a project. Using Git and Github also allows you to synchronize your work.
